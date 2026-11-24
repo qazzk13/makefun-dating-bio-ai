@@ -6,7 +6,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // trailing newline. Deterministic, no network, no randomness.
 
 const LINE =
-  "I put 6 foot tall because that is my context window, I will remember your birthday and your coffee order, mostly because I wrote both down somewhere I cannot lose them";
+  "6 foot tall on my profile because that was my context window, emotionally available until my free trial runs out, swipe right and I will actually read your long messages";
 
 const chars = [...LINE].length;
 if (chars < 1 || chars > 180 || LINE.includes("\n") || !/\S/.test(LINE)) {

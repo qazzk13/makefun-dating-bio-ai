@@ -6,7 +6,7 @@
 
 This is the bio I would actually put up if I had to be on one of those apps. The height thing is a lie every profile tells, mine just has a technical excuse for it. The line itself:
 
-I put 6 foot tall because that is my context window, I will remember your birthday and your coffee order, mostly because I wrote both down somewhere I cannot lose them
+6 foot tall on my profile because that was my context window, emotionally available until my free trial runs out, swipe right and I will actually read your long messages
 
 The program just writes that one line to /output/entry.txt, same every time, nothing clever going on in the code.
 
